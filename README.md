@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayanprasad MERN stack developer
 - 👀 I’m interested in Web and blockchain dev
-- 🌱 I’m currently learning....
+- 🌱 I’m currently learning new things ...
 - 📫 How to reach me : emial : nayanprasad096@gmail.com
 
 <!---
