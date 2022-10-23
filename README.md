@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/nayanprasad096" target="blank"><img src="https://img.shields.io/twitter/follow/nayanprasad096?logo=twitter&style=for-the-badge" alt="nayanprasad096" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack, Blockchain and DSA**
+- 🌱 I’m currently learning **Wed development, Blockchain and DSA**
 
 - 💬 Ask me about **MERN stack and DSA**
 
