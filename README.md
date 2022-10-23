@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nayanprasad096@gmail.com**
 
-- ⚡ Fun fact **I the best 😇**
+- ⚡ Fun fact **I'm the best 😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
