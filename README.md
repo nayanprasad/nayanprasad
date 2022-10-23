@@ -52,15 +52,15 @@
 ### 🏆 Git profile Trophies <img src="https://github.com/nayanprasad/nayanprasad/blob/main/emoji-trophygif" width="25px"/>
 <img src="https://github-profile-trophy.vercel.app/?username=nayanprasad&theme=gruvbox" />
 <hr>    
-<a href="https://github-readme-stats.vercel.app/api?username=nayanprasad"><img alt="nayanprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayanprasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanprasad"><img alt="nayanprasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanprasad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=nayanprasad"><img alt="nayanprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayanprasad&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanprasad"><img alt="nayanprasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanprasad&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
 <hr>
 
-### <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="25px"/>
-<a href="https://activity-graph.herokuapp.com/graph?username=nayanprasad"><img alt="nayanprasad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayanprasad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="35px"/>
+<a href="https://activity-graph.herokuapp.com/graph?username=nayanprasad"><img alt="nayanprasad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayanprasad&bg_color=0D1117&color=db8e12&line=b57318&point=FFFFFF&hide_border=true" /></a>
 <hr>
 
