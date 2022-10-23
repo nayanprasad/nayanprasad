@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nayanprasad096@gmail.com**
 
-- ⚡ Fun fact **I think i'm.....**
+- ⚡ Fun fact **I the best 😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,6 @@
 <a href="https://twitter.com/nayanprasad096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayanprasad096" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nayan-prasad-p-k-9ba900200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-prasad-p-k-9ba900200" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nayan_prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayan_prasad" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nayanprasad096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nayanprasad096" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,7 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayanprasad&show_icons=true&locale=en" alt="nayanprasad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanprasad&" alt="nayanprasad" /></p>
-## 📊 My Github Stats
+📊 My Github Stats
 
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=bhawaniCodes"><img alt="Bhawani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhawaniCodes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
