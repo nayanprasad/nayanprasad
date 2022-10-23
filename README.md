@@ -38,6 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanprasad&show_icons=true&locale=en&layout=compact" alt="nayanprasad" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayanprasad&show_icons=true&locale=en" alt="nayanprasad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanprasad&" alt="nayanprasad" /></p>
