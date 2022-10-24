@@ -55,7 +55,7 @@
 <hr>
 
 ### 🏆 Git profile Trophies <img src="https://github.com/nayanprasad/nayanprasad/blob/main/emoji-trophygif" width="25px"/>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nayanprasad&theme=gruvbox" /></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nayanprasad&theme=tokyonight" /></p>
 <hr>    
 <a href="https://github-readme-stats.vercel.app/api?username=nayanprasad"><img alt="nayanprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayanprasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanprasad"><img alt="nayanprasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanprasad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
