@@ -7,6 +7,8 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
 
+<hr>
+
 <img align="right" alt="Coding" width="400" src="https://rishavchanda.github.io/images/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanpasad&label=Profile%20views&color=0e75b6&style=flat" alt="nayanpasad" /> </p>
