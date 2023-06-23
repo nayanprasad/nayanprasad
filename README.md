@@ -9,7 +9,7 @@
 
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://rishavchanda.github.io/images/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/nayanprasad/nayanprasad/blob/main/a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanpasad&label=Profile%20views&color=0e75b6&style=flat" alt="nayanpasad" /> </p>
 
