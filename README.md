@@ -59,6 +59,7 @@
 <hr>
 
 ### <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="35px"/>
-<a href="https://activity-graph.herokuapp.com/graph?username=nayanprasad"><img alt="nayanprasad's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nayanprasad&theme=react" /></a>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PurpleMonkey729&bg_color=222222&color=ffffff&line=61DAFB&point=ffffff&area=true&hide_border=false" />
+
 <hr>
 <hr>
