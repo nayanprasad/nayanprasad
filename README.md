@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Web development, Blockchain and DSA**
 
-- 💬 Ask me about **MERN stack and DSA**
+- 💬 Ask me about **Dev and DSA**
 
 - 📫 How to reach me ?  mail me @**nayanprasad096@gmail.com**
 
@@ -39,6 +39,7 @@
 
 <hr>
 
+<!---
 ### <img src="https://github.com/nayanprasad/nayanprasad/blob/main/emoji-trophygif" width="25px"/> Git profile Trophies 
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=nayanprasad&theme=tokyonight" /></p>
 <hr>    
@@ -48,6 +49,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
+-->
 
 <hr>
 
